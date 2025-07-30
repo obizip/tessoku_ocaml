@@ -1,4 +1,3 @@
-(executable
- (public_name tessoku_ocaml)
- (name main)
- (libraries tessoku_ocaml))
+(executables
+ (names main A01)
+ (libraries core))
