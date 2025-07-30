@@ -1,0 +1,4 @@
+(executable
+ (public_name tessoku_ocaml)
+ (name main)
+ (libraries tessoku_ocaml))
